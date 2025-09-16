@@ -28,6 +28,9 @@ project_root/
 
 ## ⚙️ Technologies Used
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
