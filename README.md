@@ -1,6 +1,12 @@
 # BFSI Predictive Modeling
 
 
+## 🔎 Project Summary
+
+The BFSI Predictive Modelling project is an AI-driven solution designed to strengthen the security and reliability of financial transactions. It leverages Large Language Models (LLMs) along with data analysis techniques to study historical customer transactions and behavioral patterns, and then predict future transactions while assessing fraud risks in real time.
+
+> **Current state:** Data Collection, preprocessing , EDA , Modeling, Training and  Evaluation are the next steps.
+
   ## 📁 Folder Structure (relevant)
 
 ```
