@@ -5,7 +5,7 @@
 
 The BFSI Predictive Modelling project is an AI-driven solution designed to strengthen the security and reliability of financial transactions. It leverages Large Language Models (LLMs) along with data analysis techniques to study historical customer transactions and behavioral patterns, and then predict future transactions while assessing fraud risks in real time.
 
-> **Current state:** Data Collection, preprocessing , EDA , Modeling, Training and  Evaluation are the next steps.
+> **Current state:** Data Collection, preprocessing , EDA. Modeling, Training and  Evaluation are the next steps.
 
   ## 📁 Folder Structure (relevant)
 
@@ -34,3 +34,11 @@ numpy
 matplotlib
 
 seaborn
+
+## ✅ What we have done
+
+* Cleaned and prepared the transaction dataset for analysis.
+* Feature Engineering: Extracting time-based features (hour, day, weekday) and creating a binary indicator for high-value transactions.
+* Exploratory Data Analysis (EDA): Using matplotlib and seaborn to visualize patterns, trends, and anomalies in customer transactions.
+* Data Transformation: Normalizing and structuring data for better model input.
+* Model Preparation: Setting up the pipeline to integrate future machine learning and LLM-based predictive models.
